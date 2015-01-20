@@ -287,4 +287,4 @@ msgstr "ARMAZENAMENTO"
 
 
 msgid "OUTPUT DEVICE"
-msgstr "OUTPUT DEVICE"
+msgstr "DISPOSITIVO DE SAÍDA"
