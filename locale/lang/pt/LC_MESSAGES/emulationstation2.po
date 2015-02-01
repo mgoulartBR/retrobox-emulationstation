@@ -275,7 +275,6 @@ msgstr "IDIOMA"
 msgid "THE SYSTEM WILL NOW REBOOT"
 msgstr "REINICIANDO SISTEMA"
 
-
 msgid "INFOS"
 msgstr "INFORMAÇÕES"
 
@@ -285,6 +284,17 @@ msgstr "VERSÃO"
 msgid "STORAGE"
 msgstr "ARMAZENAMENTO"
 
+msgid "SYSTEM SETTINGS"
+msgstr "OPÇÕES DE SISTEMA"
 
 msgid "OUTPUT DEVICE"
-msgstr "OUTPUT DEVICE"
+msgstr "SAÍDA DE ÁUDIO"
+
+msgid "SMOOTH GAMES"
+msgstr "SUAVIZAR JOGOS"
+
+msgid "GPIO CONTROLLERS"
+msgstr "CONTROLES GPIO"
+
+msgid "GPIO CONTROLLERS ARE NOW ON"
+msgstr "OS CONTROLES GPIO ESTÃO ATIVADOS"
